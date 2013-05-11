@@ -1,5 +1,21 @@
 # CMS Needs Analysis  
 
+
+- [CMS Needs Analysis](#cms-needs-analysis)
+	- [Introduction](#introduction)
+	- [Directory](#directory)
+		- [EDIT](#edit)
+		- [ADMIN](#admin)
+	- [Content](#content)
+		- [EDIT](#edit-1)
+			- [column](#column)
+			- [information](#information)
+			- [Collection](#collection)
+			- [Plug](#plug)
+		- [ADMIN](#admin-1)
+			- [user](#user)
+			- [member](#member)
+
 ## Introduction  
 
 This content is about cms for chigix Team to develop APP store.
