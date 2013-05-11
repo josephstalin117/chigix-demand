@@ -107,14 +107,14 @@ This content is about cms for chigix Team to develop APP store.
 
 #### user
 
-1. **add**
+**add**
 
 * department
 * ban
 * password
 * group
 
-2. **management**  
+**management**  
 
 * add group
 
@@ -122,15 +122,15 @@ authority
 
 * add department
 
-3. **log**  
+ **log**  
 
 * login log
 * operating log 
 
 #### member  
 
-4. **search**
-5. **change member**
+ **search**
+ **change member**
 
 * name
 * audit
@@ -139,14 +139,14 @@ authority
 * points
 * account balance
 
-6. **group**
+ **group**
 
 * level
 * MAX Downloads
 
-7. **blog**
-5. **recharge**
-6. **send email**
-7. **delete**
-8. **follower**
-9. **message**
+ **blog**
+ **recharge**
+ **send email**
+ **delete**
+ **follower**
+ **message**
