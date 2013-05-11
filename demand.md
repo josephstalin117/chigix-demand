@@ -66,10 +66,10 @@ This content is about cms for chigix Team to develop APP store.
 3. comment  
 4. downloads
 5. vote
->project
->type
->limit IP
->limit time
+* project
+* type
+* limit IP
+* limit time
 
 **management**
 
@@ -129,8 +129,8 @@ authority
 
 #### member  
 
-1. **search**
-2. **change member**
+4. **search**
+5. **change member**
 
 * name
 * audit
@@ -139,12 +139,12 @@ authority
 * points
 * account balance
 
-3. **group**
+6. **group**
 
 * level
 * MAX Downloads
 
-4. **blog**
+7. **blog**
 5. **recharge**
 6. **send email**
 7. **delete**
